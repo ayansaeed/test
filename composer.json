@@ -1,0 +1,14 @@
+{
+    "name": "ayansaeed/smarttrainerlms",
+    "description": "test package",
+    "type": "project",
+    "license": "RTLC",
+    "authors": [
+        {
+            "name": "ayan saeed",
+            "email": "ayan.son.of.saeed@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
